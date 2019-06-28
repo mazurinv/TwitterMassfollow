@@ -1,0 +1,15 @@
+#AgentWrapper {
+  position:fixed;top:10px;right:20px;background-color: rgb(230, 236, 240);color: rgb(20, 23, 26);border-radius:2em;box-shadow: #cecece 0px 0px 10px;
+}
+#AgentWrapper #AgentBtn {
+  padding:10px;cursor:pointer;text-align:center;
+}
+#AgentWrapper #AgentBtn:hover {
+  text-decoration:underline;
+}
+
+#AgentResult {
+  padding:20px;
+  text-align:center;
+  color:green;
+}
